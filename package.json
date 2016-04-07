@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/mycolorway/simditor-mention",
   "dependencies": {
-    "jquery": "2.x",
-    "simditor": "2.3.x"
+    "simditor": "git+https://github.com/qinyang912/simditor.git"
   },
   "scripts": {
     "test": "grunt test --verbose"
